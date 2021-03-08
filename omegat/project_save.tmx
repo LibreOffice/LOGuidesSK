@@ -11793,6 +11793,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to create a new document file, change the filename and/or file format, or save the file in a different location on your computer:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210308T133900Z" creationid="milos" creationdate="20210308T133900Z">
+        <seg>Ak chceme vytvoriť nový dokument, ak chceme zmeniť jeho názov alebo ak ho chceme uložiť na nové miesto v počítači, môžeme využiť nasledujúce možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to edit, size, or move the selected draw object, first use &lt;f1&gt;Ctrl+F6&lt;/f1&gt; to move the focus into the document.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140127T091256Z" creationid="milos" creationdate="20140109T104413Z">
