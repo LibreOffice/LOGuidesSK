@@ -5897,6 +5897,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Save&lt;/f0&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210308T133105Z" creationid="milos" creationdate="20210308T133105Z">
+        <seg>Klikneme na tlačidlo &lt;f0&gt;Uložiť&lt;/f0&gt; na paneli nástrojov Štandardný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f4&gt;Download &amp; enable&lt;/f4&gt; button to get it installed.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200224T124643Z" creationid="milos" creationdate="20200224T124643Z">
@@ -8858,6 +8866,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200212T133554Z" creationid="milos" creationdate="20200212T133554Z">
         <seg>Obrázok &lt;seq0&gt;8&lt;/seq0&gt;: Uvoľnenie a ukotvenie Postranného panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Example of LibreOffice Save As dialog</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210308T133141Z" creationid="milos" creationdate="20210308T133141Z">
+        <seg>Obrázok &lt;seq0&gt;9&lt;/seq0&gt;: Príklad dialógového okna programu LibreOffice Uložiť ako</seg>
       </tuv>
     </tu>
     <tu>
@@ -24732,6 +24748,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140619T072947Z" creationid="milos" creationdate="20131017T102952Z">
         <seg>Použijeme klávesovú skratku &lt;f0&gt;Ctrl+Shift+S&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the menu option &lt;f0&gt;File &gt; Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210308T133055Z" creationid="milos" creationdate="20210308T133055Z">
+        <seg>Použite položku menu &lt;f0&gt;Súbor &gt; Uložiť&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
