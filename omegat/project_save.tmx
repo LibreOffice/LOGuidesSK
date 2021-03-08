@@ -2279,6 +2279,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210308T132929Z" creationid="milos" creationdate="20210308T132929Z">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;T&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f1&gt;View &gt; Full screen&lt;/f1&gt; menu option.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200527T150648Z" creationid="milos" creationdate="20200526T115357Z">
@@ -2515,6 +2523,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20201230T163801Z" creationid="milos" creationdate="20201230T163801Z">
         <seg>&lt;t0&gt;Riešenie problémov LibreOffice v núdzovom režime &lt;/t0&gt; |&lt;t1&gt;23&lt;/t1&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;What are all these things called?&lt;/t0&gt; | &lt;t1&gt;7&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210308T133008Z" creationid="milos" creationdate="20210308T133008Z">
+        <seg>&lt;t0&gt;Ako sa jednotlivé prvky nazývajú?&lt;/t0&gt; | &lt;t1&gt;7&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
