@@ -13836,6 +13836,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Online Document Files</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210819T095835Z" creationid="milos" creationdate="20210819T095835Z">
+        <seg>Súbory dokumentov LibreOffice Online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice Online Documents</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T164151Z" creationid="milos" creationdate="20200214T164151Z">
@@ -27349,6 +27357,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131020T162959Z" creationid="milos" creationdate="20131020T162959Z">
         <seg>Môžeme pritom nastaviť niekoľko rôznych volieb, ako sú rozlišovanie veľkosti písmen, obmedzenie hľadania len na celé slová, či hľadanie podobných slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set a cell’s background to be a color from the standard palette, or a custom color in RGB format.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210819T095904Z" creationid="milos" creationdate="20210819T095904Z">
+        <seg>Môžeme nastaviť pozadie bunky vo farbe zo štandardnej palety alebo vo vlastnej farbe definovanej v RGB formáte. </seg>
       </tuv>
     </tu>
     <tu>
