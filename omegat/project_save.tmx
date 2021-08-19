@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Header&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210819T100115Z" creationid="milos" creationdate="20210819T100115Z">
+        <seg>&lt;f0&gt;Hlavička&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Help&lt;/f0&gt; – links to the LibreOffice Help file, What’s This?, and information about the program.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200212T125232Z" creationid="milos" creationdate="20200212T125232Z">
