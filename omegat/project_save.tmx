@@ -10544,6 +10544,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can set options for &lt;f0&gt;Page Order&lt;/f0&gt; (i.e. if a sheet is larger than one printed page will allow, if it prints top to bottom or left to right first), as well as &lt;f1&gt;Print&lt;/f1&gt; options such as displaying column/row headers, comments, charts and other objects, or formulae.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210819T101355Z" creationid="milos" creationdate="20210819T101355Z">
+        <seg>Here you can set options for &lt;f0&gt;Page Order&lt;/f0&gt; (i.e. if a sheet is larger than one printed page will allow, if it prints top to bottom or left to right first), as well as &lt;f1&gt;Print&lt;/f1&gt; options such as displaying column/row headers, comments, charts and other objects, or formulae.:q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can share the file with others by entering either the usernames of other users in the hosting application, or email addresses of external people.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200301T130309Z" creationid="milos" creationdate="20200301T113047Z">
