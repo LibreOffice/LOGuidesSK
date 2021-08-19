@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Footer&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210819T100915Z" creationid="milos" creationdate="20210819T100915Z">
+        <seg>&lt;f0&gt;Päta&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Form&lt;/f0&gt; specifies if the link is to be presented as text or as a button.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140529T095319Z" creationid="milos" creationdate="20140529T095319Z">
@@ -1555,6 +1563,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200211T144205Z" creationid="milos" creationdate="20200211T144205Z">
         <seg>&lt;f0&gt;Nahlásiť chybu&lt;/f0&gt; &lt;f1&gt;‡&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;Vo vašom predvolenom prehliadači sa otvorí stránka na ohlasovanie problémov, &lt;a3&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a3&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Sheet&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210819T100931Z" creationid="milos" creationdate="20210819T100931Z">
+        <seg>&lt;f0&gt;Hárok&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
