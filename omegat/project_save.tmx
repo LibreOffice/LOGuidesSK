@@ -26704,6 +26704,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also select an image to serve as the background.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20210819T100055Z" creationid="milos" creationdate="20210819T100055Z">
+        <seg>Ako pozadie možno zvoliť aj obrázok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also select several objects at once by dragging the mouse cursor around the objects.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140602T145058Z" creationid="milos" creationdate="20140427T173149Z">
